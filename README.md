@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about Java, Spring boot, React, or any tech related stuff.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsingh336&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+#
 
 | <a href="https://github.com/rahulsingh336/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh336&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/rahulsingh336/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh336&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
