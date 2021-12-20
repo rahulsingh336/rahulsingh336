@@ -2,6 +2,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+# I'm a Software Engineer
+- 🔭 I’m currently working on software development
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about Java, Spring boot, React, or any tech related stuff.
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsingh336&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
